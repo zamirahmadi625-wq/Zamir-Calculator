@@ -1,2 +1,2 @@
-# Zamir-Calculator
+#ZCalculator
 A free Android calculator application.
